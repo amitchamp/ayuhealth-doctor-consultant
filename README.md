@@ -13,6 +13,7 @@ Doctor Finder &amp; Consultant App In React Native
     <li>Download or clone the project</li>
     <li>Goto folder(project) and install dependency packages (npm install)</li>
     <li>After install then start the project (expo start)</li>
+    <li>In otp screen you must enter 0123 otp then only you will go to homepage screen</li>
 </ul>
 
 <h2>Credits</h2>
